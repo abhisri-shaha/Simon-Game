@@ -1,7 +1,7 @@
 # Simon Game
 
 ## Overview
-Welcome to the Simon Game project! This project is a simple, interactive web application that allows users to play the popular Simon Game online.
+Welcome to the Simon Game project! This project is a simple, interactive website that allows users to play the popular Simon Game online.
 
 ## Technologies Used
 
